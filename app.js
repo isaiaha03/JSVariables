@@ -7,13 +7,16 @@ console.log(
 const firstName = "Yes";
 let lastName = "Man";
 var age = 22;
+
 // Exercise 2
 lastName = "No";
 age = 23;
+
 // Exercise 3
 let language = "JavaScript";
 let CreatedYear = 1995;
 let isCaseSensitive = true;
+
 // Exercise 4
 let price = 19.99;
 let isOnSale = false;
@@ -21,6 +24,7 @@ let salePercentage = 15;
 let stock = 0;
 let inStock = false;
 let selectedSize = "M";
+
 // Exercise 5
 let title = "Name of the Wind";
 let author = "Patrick Rothfuss";
